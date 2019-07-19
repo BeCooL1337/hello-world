@@ -1,3 +1,5 @@
 # hello-world
-i have global
-polska friend
+
+-just another repository
++kek lol
+
